@@ -10,7 +10,7 @@
 	<groupId>nz.ac.auckland.composite</groupId>
 	<artifactId>composite-ant</artifactId>
 	<name>composite-ant</name>
-	<version>1.3-SNAPSHOT</version>
+	<version>1.3</version>
 	<packaging>jar</packaging>
 	
 	<description>
@@ -21,7 +21,8 @@
 		<url>https://github.com/uoa-group-applications/composite-ant</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/composite-ant.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/composite-ant.git</developerConnection>
-	</scm>
+	  <tag>composite-ant-1.3</tag>
+  </scm>
 
 	<dependencies>
 		<!--
